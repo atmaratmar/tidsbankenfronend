@@ -1,0 +1,8 @@
+{
+  "realm": "Tidsbanken",
+  "auth-server-url": "https://keycloakappatmar.herokuapp.com/auth/",
+  "ssl-required": "external",
+  "resource": "my-React-app",
+  "public-client": true,
+  "confidential-port": 0
+}
